@@ -236,9 +236,8 @@ Senior Software Engineer
 
 Teamcenter PLM Consultant
 
-- LinkedIn: _Add your LinkedIn URL_
-- GitHub: _Add your GitHub URL_
-- Email: _Add your Email_
+- LinkedIn: aditya-s-b581b8135
+- Email: adityasharma.hireme@gmail.com
 
 ---
 
