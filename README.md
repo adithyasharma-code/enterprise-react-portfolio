@@ -238,6 +238,7 @@ Teamcenter PLM Consultant
 
 - LinkedIn: aditya-s-b581b8135
 - Email: adityasharma.hireme@gmail.com
+- Portfolio Link: https://enterprise-react-portfolio-qqu3.vercel.app
 
 ---
 
