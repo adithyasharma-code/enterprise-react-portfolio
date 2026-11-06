@@ -26,7 +26,7 @@ export const profile = {
     "https://calendly.com/adityasharma-hireme",
 
   resume:
-    "https://raw.githubusercontent.com/adithyasharma-code/aditya-sharma-resume/main/Aditya_Sharma_SeniorSoftwarerEngineer.pdf",
+    "https://raw.githubusercontent.com/adithyasharma-code/aditya-sharma-resume/main/AdityaSharma_SeniorSoftwarerEngineer.pdf",
 };
 export const statistics = [
   {
